@@ -61,6 +61,7 @@ Assignments:
      Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/MultiLabel.ipynb
    
       Youtube Link: https://youtu.be/zpQiToOyhm8
+   
    v. GPU
 
      Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Autogluon_GPU.ipynb
