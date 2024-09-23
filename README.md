@@ -15,6 +15,9 @@ Installation of AutoGluon:
 pip install autogluon
 
 It is possible to build powerful machine learning models with 3 lines of code. Here's an example
+
 from autogluon import TabularPredictor
+
 p=predict(label='class').fit(train.csv)
+
 pred=p.predict('test.csv')
