@@ -16,9 +16,19 @@ pip install autogluon
 
 It is possible to build powerful machine learning models with 3 lines of code. Here's an example
 
-**from autogluon import TabularPredictor
+from autogluon import TabularPredictor
 
 p=predict(label='class').fit(train.csv)
 
 pred=p.predict('test.csv')
-**
+
+Assignments:
+
+1. **Autogluon for Kaggle:** AutoGluon is a powerful tool that can be effectively used to compete in Kaggle competitions, especially for tasks involving tabular data (classification and regression). It automates many of the steps that are typically involved in machine learning competitions, such as model selection, hyperparameter tuning, and ensembling, allowing you to achieve competitive results with minimal effort.
+
+  Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Autogluon_Kaggle_Competitions.ipynb
+   
+  Youtube Link: https://youtu.be/wq_VjjLTwSU
+
+2. Tabular classification/regression
+   i. Tabular Quickstart- 
