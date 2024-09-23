@@ -31,4 +31,34 @@ Assignments:
   Youtube Link: https://youtu.be/wq_VjjLTwSU
 
 2. Tabular classification/regression
-   i. Tabular Quickstart- 
+   
+   i. Tabular Quickstart
+       
+      Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Autogluon_Tabular_QuickStart.ipynb
+   
+      Youtube Link: https://youtu.be/cCIFGw6AO_c
+
+      Tabular Indepth
+
+      Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Autogluon_Tabular_Indepth.ipynb
+   
+      Youtube Link: https://youtu.be/akZ5oWrKlF0
+   
+   ii. Multimodal Tabular
+
+      Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Multimodal_Tabular.ipynb
+   
+      Youtube Link: https://youtu.be/0NkTNoJ-AWI
+   
+   iii. Automatic feature engineering
+
+     Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/AutoGluonTabular_FeatureEngineering.ipynb
+   
+      Youtube Link: https://youtu.be/bypgwJ5PIys
+   
+   iv. Multilabel
+   
+     Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/MultiLabel.ipynb
+   
+      Youtube Link: https://youtu.be/zpQiToOyhm8
+   
