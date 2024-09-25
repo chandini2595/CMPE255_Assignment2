@@ -104,6 +104,13 @@ Assignments:
    
      Youtube Link: https://youtu.be/GMOsakiSy-E
 
+   xii. Zero shot classification
+
+     Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Zero_Shot_Image_Classification_with_CLIP.ipynb
+   
+     Youtube Link: https://youtu.be/OAkCOfg_ze4
+   
+
    
    
 
