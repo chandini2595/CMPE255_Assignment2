@@ -67,4 +67,45 @@ Assignments:
      Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Autogluon_GPU.ipynb
 
      Youtube Link: https://youtu.be/V7b5tMAfmho
+
+   vi. Text Classification
+
+     Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Autogluon_Text_Classification.ipynb
+
+     Youtube Link: https://youtu.be/bbwMrnXWvWA
+
+   vii. Sentiment Analysis and Sentence Similarity
+
+     Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Sentiment_Analysis_And_Sentence_Similarity.ipynb
+
+     Youtube Link: https://youtu.be/L5Wrrr8bEfU
+
+   viii. Finetune foundation models
+
+     Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Finetune_Models.ipynb
+
+     Youtube Link: https://youtu.be/KPKTk_-j45M
+
+   ix. Named Entity Recognition
+
+     Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Named_Entity_Recognition.ipynb
+   
+     Youtube Link: https://youtu.be/NIyrXiEDYtU
+   
+   x. Text Similarity Matching
+
+     Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Text_Similarity_Matching.ipynb
+   
+     Youtube Link: https://youtu.be/Z1GVs3kcMI8
+
+   xi. Image Classifier
+
+     Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Image_classifier.ipynb
+   
+     Youtube Link: https://youtu.be/GMOsakiSy-E
+
+   
+   
+
+     
    
