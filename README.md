@@ -155,7 +155,10 @@ Assignments:
    xviii. Image Text Zero shot
 
      Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Zero_Shot_Image_Text_Matching.ipynb
-   
+
+     Youtube Link: https://www.youtube.com/watch?v=pe7T5Jsu4mM
+
+   xix. 
    
      
 
