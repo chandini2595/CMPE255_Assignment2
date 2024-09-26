@@ -158,8 +158,17 @@ Assignments:
 
      Youtube Link: https://www.youtube.com/watch?v=pe7T5Jsu4mM
 
-   xix. 
+   xix. Text Semantic Search
+
+     Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Text_Semantic_Search.ipynb
+
+     Youtube Link: https://www.youtube.com/watch?v=stA_YC-kcPM&t=2s
+
+   xx. Multi Modal Mixed Types Text Columns
    
+     Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Multi_modal_mixed_types_text_columns.ipynb
+
+     Youtube Link: https://www.youtube.com/watch?v=h92R8msR_4M
      
 
    
