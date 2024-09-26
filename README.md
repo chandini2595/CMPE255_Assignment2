@@ -156,7 +156,6 @@ Assignments:
 
      Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Zero_Shot_Image_Text_Matching.ipynb
    
-     Youtube Link: https://youtu.be/4VZTA2I8quk
    
      
 
