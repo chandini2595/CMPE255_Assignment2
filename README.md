@@ -169,7 +169,30 @@ Assignments:
      Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Multi_modal_mixed_types_text_columns.ipynb
 
      Youtube Link: https://www.youtube.com/watch?v=h92R8msR_4M
-     
+
+   xxi. Images + text in table
+
+     Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Autogluon_Image_Text_G2.ipynb
+
+     Youtube Link: https://www.youtube.com/watch?v=ERuLJQitaV8
+
+   xxii. Entity extraction in multi modal
+
+     Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Entity_Extraction_in_Multimodal.ipynb
+
+     Youtube Link: https://www.youtube.com/watch?v=4_9dMiha078
+
+   xxiii. Time series forecasting with autogluon and also zero shot chronos
+
+     Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Time_series_forecasting_with_autogluon.ipynb
+
+     Youtube Link: https://www.youtube.com/watch?v=ZYr_oUBaeF4
+
+   xxiv. Multi Modal image+text+tabular prediction
+
+     Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Multi_Modal_image%2Btext%2Btabular_prediction.ipynb
+
+     Youtube Link: https://www.youtube.com/watch?v=0ewSYbtmN14
 
    
    
