@@ -106,7 +106,7 @@ Assignments:
 
    xii. Zero shot classification
 
-     Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Zero_Shot_Image_Classification_with_CLIP.ipynb
+     Code: https://colab.research.google.com/drive/16_ESdEEm8zlRq70qGv-HGZl44Tl4oMaD?usp=sharing
    
      Youtube Link: https://youtu.be/OAkCOfg_ze4
 
