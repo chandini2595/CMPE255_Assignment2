@@ -26,7 +26,7 @@ Assignments:
 
 1. **Autogluon for Kaggle:** AutoGluon is a powerful tool that can be effectively used to compete in Kaggle competitions, especially for tasks involving tabular data (classification and regression). It automates many of the steps that are typically involved in machine learning competitions, such as model selection, hyperparameter tuning, and ensembling, allowing you to achieve competitive results with minimal effort.
 
-  Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Autogluon_Kaggle_Competitions.ipynb
+  Code: https://colab.research.google.com/drive/1UMKIBuF0TvS8R2Jl21IGvZJQsBQa2_EA?usp=sharing
    
   Youtube Link: https://youtu.be/wq_VjjLTwSU
 
