@@ -40,7 +40,7 @@ Assignments:
 
       Tabular Indepth
 
-      Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Autogluon_Tabular_Indepth.ipynb
+      Code: https://colab.research.google.com/drive/10JcC8f35GbrccD_4ikmfjgxA2D1O21sP?usp=sharing
    
       Youtube Link: https://youtu.be/akZ5oWrKlF0
    
