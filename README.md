@@ -34,7 +34,7 @@ Assignments:
    
    i. Tabular Quickstart
        
-      Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Autogluon_Tabular_QuickStart.ipynb
+      Code: https://colab.research.google.com/drive/1G0jUmMOv2sa_FkYdwta--RZlAh9_U84v?usp=sharing
    
       Youtube Link: https://youtu.be/cCIFGw6AO_c
 
@@ -46,61 +46,61 @@ Assignments:
    
    ii. Multimodal Tabular
 
-      Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Multimodal_Tabular.ipynb
+      Code: https://colab.research.google.com/drive/1WhSBNDpFkirfM7U6n2iJwP66ibXLQR9h?usp=sharing
    
       Youtube Link: https://youtu.be/0NkTNoJ-AWI
    
    iii. Automatic feature engineering
 
-     Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/AutoGluonTabular_FeatureEngineering.ipynb
+     Code: https://colab.research.google.com/drive/1IISk9cIq9yFRh5z4dvKYdCAPz1kPEs6x?usp=sharing
    
       Youtube Link: https://youtu.be/bypgwJ5PIys
    
    iv. Multilabel
    
-     Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/MultiLabel.ipynb
+     Code: https://colab.research.google.com/drive/11lERr7nIZVQp6VaR8yA-ZEFVOUZVCQEQ?usp=sharing
    
       Youtube Link: https://youtu.be/zpQiToOyhm8
    
    v. GPU
 
-     Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Autogluon_GPU.ipynb
+     Code: https://colab.research.google.com/drive/114UPooCLWjkcI9wjCOLQdobacQ4AbRMe?usp=sharing
 
      Youtube Link: https://youtu.be/V7b5tMAfmho
 
    vi. Text Classification
 
-     Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Autogluon_Text_Classification.ipynb
+     Code: https://colab.research.google.com/drive/1ir19c23_1-LxaGgQqVJTP4d3cLWJDVWS?usp=sharing
 
      Youtube Link: https://youtu.be/bbwMrnXWvWA
 
    vii. Sentiment Analysis and Sentence Similarity
 
-     Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Sentiment_Analysis_And_Sentence_Similarity.ipynb
-
+     Code: https://colab.research.google.com/drive/1a5eyQhZwlZiAF63rQ8zoReXZjoIFiriB?usp=sharing
+   
      Youtube Link: https://youtu.be/L5Wrrr8bEfU
 
    viii. Finetune foundation models
 
-     Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Finetune_Models.ipynb
+     Code: https://colab.research.google.com/drive/1IATS-BrlKaFEiDnldnlZJa3GF3Iq9-P0?usp=sharing
 
      Youtube Link: https://youtu.be/KPKTk_-j45M
 
    ix. Named Entity Recognition
 
-     Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Named_Entity_Recognition.ipynb
+     Code: https://colab.research.google.com/drive/1GTUB_KfPV9Juis0AemYPOSOq9APl7RVr?usp=sharing
    
      Youtube Link: https://youtu.be/NIyrXiEDYtU
    
    x. Text Similarity Matching
 
-     Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Text_Similarity_Matching.ipynb
+     Code: https://colab.research.google.com/drive/1E_g68ecrWUk7nNxymzIYVMMCZ6RSWCUp?usp=sharing
    
      Youtube Link: https://youtu.be/Z1GVs3kcMI8
 
    xi. Image Classifier
 
-     Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Image_classifier.ipynb
+     Code: https://colab.research.google.com/drive/1GjHuHeDfMfv72RFPVbEB7mq3uY06n6p4?usp=sharing
    
      Youtube Link: https://youtu.be/GMOsakiSy-E
 
