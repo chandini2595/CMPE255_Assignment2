@@ -112,74 +112,74 @@ Assignments:
 
    xiii. Image Object Detection
 
-     Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Image_Object_Detection.ipynb
+     Code: https://colab.research.google.com/drive/1hr0-Uh8by0mR4ubXYI4m07rNeFA2h-na?usp=sharing
    
      Youtube Link: https://youtu.be/E6SA3x8Wovo
 
    xiv. Image Segmentation
 
-     Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Image_Segmentation.ipynb
+     Code: https://colab.research.google.com/drive/1yihg6CvmJ-vFdbn8T1cj64f3d1CilWeq?usp=sharing
    
      Youtube Link: https://youtu.be/E6SA3x8Wovo
 
    xv. Document classification
 
-     Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Document_Classification.ipynb
+     Code: https://colab.research.google.com/drive/1b4xxuOnpBb679zyKxGOKkXfqzLIBTAQa?usp=sharing
    
      Youtube Link: https://youtu.be/yfu2vKBZTvc
 
    xvi. PDF classification
 
-     Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/PDF_Classification.ipynb
+     Code: https://colab.research.google.com/drive/1-kQ188qdW7LxerV7LxUUMGzXuOBgpszD?usp=sharing
    
      Youtube Link: https://youtu.be/CXgcMsjc5h4
 
    xv. Image to Image
 
-     Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Image_to_Image.ipynb
+     Code: https://colab.research.google.com/drive/1oSlAkeKp4xxvdBpoDa51TPoNYvF4zHfd?usp=sharing
    
      Youtube Link: https://youtu.be/9TdAgWndCqk
 
    xvi. Text to Text
 
-     Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Text_to_Text.ipynb
+     Code: https://colab.research.google.com/drive/1SEW6th-a5IuLl-D9OZmZI_ZPWxaiL5hd?usp=sharing
    
      Youtube Link: https://youtu.be/gZrfWNOrNfQ
 
    xvii. Image Text
 
-     Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Image_Text_Matching.ipynb
+     Code: https://colab.research.google.com/drive/1RbxPctl6IkzdLHGHfGO_lsS_6A-XnXYK?usp=sharing
    
      Youtube Link: https://youtu.be/4VZTA2I8quk
 
    xviii. Image Text Zero shot
 
-     Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Zero_Shot_Image_Text_Matching.ipynb
+     Code: https://colab.research.google.com/drive/1q3ddq8Mmh3-lspQ-5v_gCuTYuaHRIIH1?usp=sharing
 
      Youtube Link: https://www.youtube.com/watch?v=pe7T5Jsu4mM
 
    xix. Text Semantic Search
 
-     Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Text_Semantic_Search.ipynb
+     Code: https://colab.research.google.com/drive/19DOky3MNTYeSl4cKywfJ3wdaj_ts4p_e?usp=sharing
 
      Youtube Link: https://www.youtube.com/watch?v=stA_YC-kcPM&t=2s
 
    xx. Multi Modal Mixed Types Text Columns
    
-     Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Multi_modal_mixed_types_text_columns.ipynb
-
+     Code: https://colab.research.google.com/drive/1evd-WgYjUoJ_NXlHCkNaJFkmbHM5Og0j?usp=sharing
+   
      Youtube Link: https://www.youtube.com/watch?v=h92R8msR_4M
 
    xxi. Images + text in table
 
-     Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Autogluon_Image_Text_G2.ipynb
+     Code: https://colab.research.google.com/drive/1m_lmN77rMcMq5ZqIaOdKgFpUvsmZ5UNv?usp=sharing
 
      Youtube Link: https://www.youtube.com/watch?v=ERuLJQitaV8
 
    xxii. Entity extraction in multi modal
 
-     Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Entity_Extraction_in_Multimodal.ipynb
-
+     Code: https://colab.research.google.com/drive/1hm0rhAZ60LM-MZQU9Y1V2sizhqg9oHdd?usp=sharing
+   
      Youtube Link: https://www.youtube.com/watch?v=4_9dMiha078
 
    xxiii. Time series forecasting with autogluon and also zero shot chronos
