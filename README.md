@@ -184,13 +184,13 @@ Assignments:
 
    xxiii. Time series forecasting with autogluon and also zero shot chronos
 
-     Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Time_series_forecasting_with_autogluon.ipynb
+     Code: https://colab.research.google.com/drive/1nQJZ-NGW_rbn_GLhQ6ZcqFuiixMNcC5B?usp=sharing
 
      Youtube Link: https://www.youtube.com/watch?v=ZYr_oUBaeF4
 
    xxiv. Multi Modal image+text+tabular prediction
 
-     Code: https://github.com/chandini2595/CMPE255_Assignment2/blob/main/Multi_Modal_image%2Btext%2Btabular_prediction.ipynb
+     Code: https://colab.research.google.com/drive/1QkkryuCGxg5Fqwrwqb_m7kqPLRrsO6FF?usp=sharing
 
      Youtube Link: https://www.youtube.com/watch?v=0ewSYbtmN14
 
